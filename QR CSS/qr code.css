@@ -1,0 +1,54 @@
+
+
+body{max-width: 1440px;
+    
+
+    
+
+background-color:hsl(212, 45%, 89%)}
+
+
+
+
+
+
+.QRcode-container{margin: 6rem auto ;
+    
+    
+padding:15px ;
+max-width: 250px;
+height: 400px;
+background-color: white
+;border-radius: 20px;
+text-align: center;
+
+
+}
+
+
+
+
+.QRcode-container{display: flex;
+
+    align-items: center;
+}
+
+#bigger{font: weight 700;
+    font-size: 18px;
+    
+}
+#smaller{font-weight: 400;
+
+font-size: 14px;
+}
+
+img{width: 250px;
+height: 250px;
+border-radius: 10px;
+}
+
+
+#bigger {font-family: sans-serif;}
+
+#smaller{font-family: 'outfit', sans-serif;}
+
