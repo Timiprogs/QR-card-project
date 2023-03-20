@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop view](Screenshot 2023-03-21 143524.png)
 
 
 ### Links
